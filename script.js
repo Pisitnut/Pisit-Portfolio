@@ -258,7 +258,15 @@ activityTitle3:
 "BU Cyber Fortress Challenge & Career Expo 2026",
 
 activityDesc3:
-"Participated in BU Cyber Fortress Challenge & Career Expo 2026 to explore cybersecurity careers and information security technologies. Gained knowledge through discussions with cybersecurity professionals and company representatives about career opportunities, job roles, and essential skills required for entering the cybersecurity field. Received valuable advice and guidance for preparing myself for future career development."
+"Participated in BU Cyber Fortress Challenge & Career Expo 2026 to explore cybersecurity careers and information security technologies. Gained knowledge through discussions with cybersecurity professionals and company representatives about career opportunities, job roles, and essential skills required for entering the cybersecurity field. Received valuable advice and guidance for preparing myself for future career development.",
+
+activityTitle4: "Meet The Youth Cyber Guardians & White Hat Thailand 2026",
+
+activityDesc4: "Participated in Meet The Youth Cyber Guardians & White Hat Thailand 2026 to learn about Cybersecurity, White Hat Hacker concepts, and approaches to protecting against cyber threats. Gained insights into cybersecurity career roles, ethical security practices, and skills needed to prepare for a future career in Cybersecurity.",
+
+activityTitle5: "Faculty Futsal Competition – 1st Place",
+
+activityDesc5: "Participated in a faculty-level futsal competition and achieved 1st place. This experience helped me develop teamwork, communication, and planning skills while working with my teammates. I also learned how to solve problems and handle pressure during the competition while working together toward a common goal.",
 
 },
 
@@ -442,7 +450,18 @@ activityTitle3:
 "BU Cyber Fortress Challenge & Career Expo 2026",
 
 activityDesc3:
-"เข้าร่วมกิจกรรม BU Cyber Fortress Challenge & Career Expo 2026 เพื่อเรียนรู้เกี่ยวกับสายงานด้าน Cybersecurity และเทคโนโลยีความปลอดภัยสารสนเทศ ได้พูดคุยและแลกเปลี่ยนความรู้กับผู้เชี่ยวชาญด้าน Cybersecurity รวมถึงตัวแทนจากบริษัทต่าง ๆ เกี่ยวกับตำแหน่งงาน ทักษะที่จำเป็น และแนวทางการเตรียมตัวเข้าสู่สายอาชีพ พร้อมได้รับคำแนะนำที่เป็นประโยชน์สำหรับการพัฒนาตนเองในอนาคต"
+"เข้าร่วมกิจกรรม BU Cyber Fortress Challenge & Career Expo 2026 เพื่อเรียนรู้เกี่ยวกับสายงานด้าน Cybersecurity และเทคโนโลยีความปลอดภัยสารสนเทศ ได้พูดคุยและแลกเปลี่ยนความรู้กับผู้เชี่ยวชาญด้าน Cybersecurity รวมถึงตัวแทนจากบริษัทต่าง ๆ เกี่ยวกับตำแหน่งงาน ทักษะที่จำเป็น และแนวทางการเตรียมตัวเข้าสู่สายอาชีพ พร้อมได้รับคำแนะนำที่เป็นประโยชน์สำหรับการพัฒนาตนเองในอนาคต",
+
+activityTitle4:
+"Meet The Youth Cyber Guardians & White Hat Thailand 2026",
+
+activityDesc4:
+"เข้าร่วมกิจกรรม Meet The Youth Cyber Guardians & White Hat Thailand 2026 เพื่อเรียนรู้แนวคิดด้าน Cybersecurity และ White Hat Hacker รวมถึงแนวทางการป้องกันภัยคุกคามทางไซเบอร์ ได้เรียนรู้เกี่ยวกับบทบาทของบุคลากรด้าน Cybersecurity แนวคิดการใช้ทักษะด้านความปลอดภัยอย่างมีจริยธรรม และแนวทางการพัฒนาตนเองเพื่อเตรียมความพร้อมสู่สายอาชีพด้าน Cybersecurity ในอนาคต",
+
+activityTitle5: "การแข่งขันฟุตซอลระดับคณะ – รางวัลชนะเลิศอันดับ 1",
+
+activityDesc5: "ได้เข้าร่วมการแข่งขันฟุตซอลระดับคณะและได้รับรางวัลชนะเลิศอันดับ 1 จากการแข่งขันครั้งนี้ ทำให้ได้ฝึกการทำงานเป็นทีม การสื่อสาร และการวางแผนร่วมกับเพื่อน ๆ รวมถึงการแก้ปัญหาเฉพาะหน้าและการรับมือกับความกดดันระหว่างการแข่งขัน ซึ่งเป็นประสบการณ์ที่ช่วยพัฒนาทักษะการทำงานร่วมกับผู้อื่นได้เป็นอย่างดี",
+
 
 }
 
@@ -663,6 +682,29 @@ setText(
 lang.activityDesc3
 );
 
+
+setText(
+    "activityTitle4",
+    lang.activityTitle4
+);
+
+setText(
+    "activityDesc4",
+    lang.activityDesc4
+);
+
+
+
+
+setText(
+    "activityTitle5",
+    lang.activityTitle5
+);
+
+setText(
+    "activityDesc5",
+    lang.activityDesc5
+);
 
 
 
