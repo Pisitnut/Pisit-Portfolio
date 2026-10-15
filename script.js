@@ -106,7 +106,7 @@ navContact:"Contact",
 heroName:"Pisit Suebsai",
 
 heroDesc:
-"Software Development • Data Science • AI • Cybersecurity",
+"Cybersecurity",
 
 
 
@@ -129,12 +129,7 @@ Data Science and Cybersecurity
 
 at Bangkok University.
 
-I am interested in Software Development,
-Data Science, Artificial Intelligence (AI),
-and Cybersecurity.
-
-I enjoy creating practical solutions
-using technology.
+Open to career opportunities to develop my skills and expand my technical knowledge through problem-solving and building practical solutions. Eager to learn new technologies and continuously improve myself while seeking opportunities to gain hands-on experience in a professional work environment.
 
 `,
 
@@ -143,12 +138,12 @@ using technology.
 aboutEducation:`
 
 <strong>
-Computer Science - Data Science and Cybersecurity
+Computer Science
 </strong>
 
 <br>
 
-Faculty of Information Technology and Innovation,
+School of Information Technology and Innovation,
 Bangkok University
 
 `,
@@ -291,7 +286,7 @@ navContact:"ติดต่อ",
 heroName:"พิสิษฐ์ สืบสาย",
 
 heroDesc:
-"Software Development • Data Science • AI • Cybersecurity",
+"Cybersecurity",
 
 
 
@@ -310,16 +305,12 @@ aboutIntro:`
 ผมเป็นนักศึกษาสาขา
 
 <strong>
-Computer Science - Data Science and Cybersecurity
+สาขาวิชาวิทยาการคอมพิวเตอร์
 </strong>
 
 มหาวิทยาลัยกรุงเทพ
 
-มีความสนใจด้าน Software Development,
-Data Science, AI และ Cybersecurity
-
-พร้อมนำความรู้ทางเทคนิค
-มาสร้าง Solution ที่ใช้งานได้จริง
+พร้อมเปิดรับโอกาสในการทำงานเพื่อพัฒนาทักษะและต่อยอดความรู้ทางเทคนิคสู่การแก้ไขปัญหาและสร้างโซลูชันที่ใช้งานได้จริง สามารถเรียนรู้เทคโนโลยีใหม่ ๆ และพัฒนาตนเองอย่างต่อเนื่อง เพื่อที่จะมีโอกาสในทำงานในองค์กรจริง
 
 `,
 
@@ -328,7 +319,7 @@ Data Science, AI และ Cybersecurity
 aboutEducation:`
 
 <strong>
-Computer Science - Data Science and Cybersecurity
+Computer Science
 </strong>
 
 <br>
